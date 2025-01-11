@@ -1,3 +1,5 @@
+A simple Rich Text Editor Using Rect.js And Draft.Js
+
 run project :- npm run start
 
 
